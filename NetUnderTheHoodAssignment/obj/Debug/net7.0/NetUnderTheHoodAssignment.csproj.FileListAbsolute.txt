@@ -1,0 +1,14 @@
+/Users/aorui.tan/Desktop/Web Developer/C#/NetUnderTheHoodAssignment/NetUnderTheHoodAssignment/bin/Debug/net7.0/NetUnderTheHoodAssignment
+/Users/aorui.tan/Desktop/Web Developer/C#/NetUnderTheHoodAssignment/NetUnderTheHoodAssignment/bin/Debug/net7.0/NetUnderTheHoodAssignment.deps.json
+/Users/aorui.tan/Desktop/Web Developer/C#/NetUnderTheHoodAssignment/NetUnderTheHoodAssignment/bin/Debug/net7.0/NetUnderTheHoodAssignment.runtimeconfig.json
+/Users/aorui.tan/Desktop/Web Developer/C#/NetUnderTheHoodAssignment/NetUnderTheHoodAssignment/bin/Debug/net7.0/NetUnderTheHoodAssignment.dll
+/Users/aorui.tan/Desktop/Web Developer/C#/NetUnderTheHoodAssignment/NetUnderTheHoodAssignment/bin/Debug/net7.0/NetUnderTheHoodAssignment.pdb
+/Users/aorui.tan/Desktop/Web Developer/C#/NetUnderTheHoodAssignment/NetUnderTheHoodAssignment/obj/Debug/net7.0/NetUnderTheHoodAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aorui.tan/Desktop/Web Developer/C#/NetUnderTheHoodAssignment/NetUnderTheHoodAssignment/obj/Debug/net7.0/NetUnderTheHoodAssignment.AssemblyInfoInputs.cache
+/Users/aorui.tan/Desktop/Web Developer/C#/NetUnderTheHoodAssignment/NetUnderTheHoodAssignment/obj/Debug/net7.0/NetUnderTheHoodAssignment.AssemblyInfo.cs
+/Users/aorui.tan/Desktop/Web Developer/C#/NetUnderTheHoodAssignment/NetUnderTheHoodAssignment/obj/Debug/net7.0/NetUnderTheHoodAssignment.csproj.CoreCompileInputs.cache
+/Users/aorui.tan/Desktop/Web Developer/C#/NetUnderTheHoodAssignment/NetUnderTheHoodAssignment/obj/Debug/net7.0/NetUnderTheHoodAssignment.dll
+/Users/aorui.tan/Desktop/Web Developer/C#/NetUnderTheHoodAssignment/NetUnderTheHoodAssignment/obj/Debug/net7.0/refint/NetUnderTheHoodAssignment.dll
+/Users/aorui.tan/Desktop/Web Developer/C#/NetUnderTheHoodAssignment/NetUnderTheHoodAssignment/obj/Debug/net7.0/NetUnderTheHoodAssignment.pdb
+/Users/aorui.tan/Desktop/Web Developer/C#/NetUnderTheHoodAssignment/NetUnderTheHoodAssignment/obj/Debug/net7.0/NetUnderTheHoodAssignment.genruntimeconfig.cache
+/Users/aorui.tan/Desktop/Web Developer/C#/NetUnderTheHoodAssignment/NetUnderTheHoodAssignment/obj/Debug/net7.0/ref/NetUnderTheHoodAssignment.dll

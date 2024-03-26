@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "489WSMOAMThm7JsBs14ghoJPGlP1vlD3IghB14BdBKiL+zHpVuT6966zp/qYarncIZutxTZfjJzFKQSyaPz6YA==",
+  "success": true,
+  "projectFilePath": "/Users/aorui.tan/Desktop/Web Developer/C#/NetUnderTheHoodAssignment/NetUnderTheHoodAssignment/NetUnderTheHoodAssignment.csproj",
+  "expectedPackageFiles": [
+    "/Users/aorui.tan/.nuget/packages/microsoft.netcore.app.ref/7.0.16/microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/aorui.tan/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.16/microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/aorui.tan/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.16/microsoft.netcore.app.host.osx-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
